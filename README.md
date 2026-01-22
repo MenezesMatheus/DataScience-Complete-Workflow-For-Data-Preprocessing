@@ -1,1 +1,2 @@
 # DataScience-Complete-Workflow-For-Data-Preprocessing
+The sixth data science activity aims to develop a complete workflow for the data preprocessing pipeline, with all possible combinations within the experimental protocol: Median imputation, KNN Imputer imputation; Without data balancing and balancing with Random-Over-Sampling; Without feature selection/reduction and with SelectKBest. The dataset chosen for this analysis was Hepatitis, which contains medical information from patients with hepatitis, the goal of this dataset is predict if the patient will live or die.
